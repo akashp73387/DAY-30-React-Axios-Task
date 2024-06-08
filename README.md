@@ -8,3 +8,5 @@ To edit the user data click the edit button in the Users page which redirects to
 To delete a user data click the delete button in the Users page and the particular user data will immediately get deleted from the api.
 To create a new user navigate click the create button either in navbar or Create button at the bottom of the User Details page.
 Deployed the Work in Netilfy
+
+https://0react-axios-task.netlify.app/

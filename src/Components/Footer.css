@@ -1,0 +1,18 @@
+.footer{
+    position: relative !important;
+    left: 0 !important; 
+  bottom: 0 !important;
+  text-align: center;
+  width: 100%;
+  
+}
+.nav-link{
+  color: orangered !important;
+  font-weight: 600 !important;
+ 
+}
+.footer-text{
+  color: chartreuse;
+  font-size: 22px;
+  font-weight: 600;
+}

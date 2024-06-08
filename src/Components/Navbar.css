@@ -1,0 +1,18 @@
+.navbar a{
+    text-decoration: none;
+    margin-right:25px !important;
+    font-size: x-large;
+    color: orangered;
+    font-weight: 600;
+}
+.navbar-brand{
+    color: chartreuse !important;
+}
+.navbar-collapse{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.navbar-toggler{
+    background-color: chartreuse !important;
+}
